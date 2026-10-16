@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/GameStore/">
+    <Project Path="GameStore/GameStore.API/GameStore.API.csproj" />
+  </Folder>
+</Solution>
